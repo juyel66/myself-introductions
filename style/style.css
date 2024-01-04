@@ -1,0 +1,8 @@
+.Hello{
+    background-color: aquamarine;
+    text-align: center;
+    border: 100px;
+    border-radius: 100px;
+    /* border-left: 100px; */
+    width: 500px;
+}
